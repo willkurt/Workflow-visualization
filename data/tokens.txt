@@ -1,0 +1,99 @@
+Article Picked Up
+Article request
+Awaiting ALA Request Processing
+Awaiting Borrowing Scanning
+Awaiting Cancellation Review
+Awaiting Conditional Processing
+Awaiting Conditional Request Processing
+Awaiting Copyright Clearance
+Awaiting Customer Contact
+Awaiting Customer Response
+Awaiting delivery from Medical Library
+Awaiting Denied Renewal Processing
+Awaiting Direct Request Sending
+Awaiting Dissertation Processing
+Awaiting Doc Del Customer Contact
+Awaiting Doc Del Scanning
+Awaiting Doc Provider Processing
+Awaiting Document Delivery Processing
+Awaiting Extensive Searching
+Awaiting Future Ordering
+Awaiting Lending Request Processing
+Awaiting Link+ Processing
+Awaiting Mailing
+Awaiting NTIS Request Processing
+Awaiting Odyssey Processing
+Awaiting Odyssey Scanning
+Awaiting Odyssey Sending
+Awaiting Other Request Processing
+Awaiting Photocopy
+Awaiting Post Receipt Processing
+Awaiting Purchase Processing
+Awaiting Recalled Processing
+Awaiting Renewal OK Processing
+Awaiting Renewal Request Processing
+Awaiting Request Processing
+Awaiting Return Label Printing
+Awaiting Rush Request Processing
+Awaiting Second Stacks Search
+Awaiting Secondary Label Printing
+Awaiting Shipping Label Printing
+Awaiting Stacks Searching
+Awaiting Storage Processing
+Awaiting Unfilled Processing
+Awaiting User Verification
+Cancelled by Customer
+Cancelled by ILL Staff
+Cancelled via Lending Web
+Checked In from Borrowing Library
+Checked Out to Customer
+Customer Notified
+Customer Removed from System
+Delivered to Web
+Doc Del Article Scanned
+Doc Del Customer Notified via E-Mail
+Doc Del Item Not Found
+Future Loan Processing
+Imported from OCLC
+Imported from OCLC Review File
+In ALA Request Print Queue
+In DD Stacks Searching
+In Document Delivery Print Queue
+In Electronic Delivery Processing
+In Print Queue
+In Return Address Print Queue
+In Shipping Label Print Queue
+In Stacks Search Print Queue
+In Stacks Searching
+In Transit
+Item Checked In
+Item Found
+Item Not Picked Up
+Item Returned
+Item Shipped
+Item Switched from Article to Loan
+Item Switched from Loan to Article
+Loans Recalled from Patrons
+Long Overdue or Lost
+Mailed to Address
+Odyssey Article Scanned
+Odyssey Complete
+Odyssey Document Received
+Odyssey Sending Failed
+Outside Inquiry
+Re-Submitted by Customer
+Received Partial/Incorrect Item
+Renewal Allowed
+Renewal Denied
+Renewed by Customer
+Renewed by ILL Staff
+Request Added Through Client
+Request Conditionalized
+Request Finished
+Request in Processing
+Request Resubmitted for Processing
+Request Sent
+Routed from Document Delivery
+Routed from Document Delivery to Borrowi
+Submitted by Customer
+Submitted via Lending Web
